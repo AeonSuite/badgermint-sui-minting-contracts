@@ -1,0 +1,5 @@
+[package]
+name = "certificate_nft_project"
+edition = "2024"
+
+[dependencies]
